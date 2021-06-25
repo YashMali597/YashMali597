@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YashMali597
-- 👀 I’m interested in AI and ML
+- 👋 Hi, I’m Yash Mali
+- 👀 I’m interested in Coding and Learning new technologies
 -
 -
 
